@@ -1,3 +1,6 @@
+//https://sbcode.net/threejs/object3d/
+//AR, ThreeJS & VueJS: Del papel a la realidad aumentada
+//https://viro-community.readme.io/docs/quick-start-windows
 import React from "react";
 import { View } from "react-native";
 import Expo from "expo";
