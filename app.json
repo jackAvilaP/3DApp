@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "3DApp",
+    "slug": "3DApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "3DApp"
+}
